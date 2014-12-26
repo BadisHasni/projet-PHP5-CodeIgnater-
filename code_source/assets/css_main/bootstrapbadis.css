@@ -1,0 +1,156 @@
+﻿.container {
+
+}
+.colonne{
+background-color:#9819CE;
+
+padding-right:20px;
+
+}
+.top {margin-bottom:10px;}
+.decalage{padding-left:15px;}
+.decalage2{margin:20px;}
+.decalage-nav{padding-left:90px;}
+.decalage3{padding-left:50px;}
+
+
+.top1 {margin-bottom:10px;}
+.top2 {margin-bottom:10px;}
+.top3 {margin-bottom:10px;}
+.top3 {margin-bottom:20px;}
+.topx{margin-bottom:5px;}
+
+body {
+ 
+  background:#F7F5F5;
+}
+
+.in {display:block; visibility:visible;}
+
+nav{
+-webkit-border-radius:1px;
+
+-webkit-box-shadow:2px 5px 2px #BBB4B4;
+background:#DFDBDB;
+
+padding-left:90px;
+}
+
+
+h7{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:10px;
+  color:#000000;
+  font-style:normal;
+  -webkit-transition-property:color;
+  -webkit-transition-duration:10px;
+
+}
+.rouge{background:#E42E2E;}
+
+#cercle{
+-webkit-border-radius:5px;
+
+-webkit-box-shadow:2px 3px 2px #999;
+background:#808080;
+}
+
+
+/*---------------------------------------------------------------------------------------------------------------
+                                MENU
+----------------------------------------------------------------------------------------------------------------*/								
+.menu {
+          
+			height:20px;
+			font: 25px Arial;
+			
+			}
+.menu ul{
+            margin:0px;
+			padding:0px;
+			float:left;
+			
+			
+			}
+.menu ul li {
+            display:inline;
+			}
+.menu ul li a{
+            float:left;
+			color:#999999;
+			padding:5px 30px;
+			text-decoration:none;
+			border-right:2px solid #D3D3D3;
+			}
+.menu ul li a:visited{
+            color:0467cD;
+			}
+.menu ul li a:hover{
+             color:#660000;
+
+			 }
+			 
+/*---------------------------------------------------------*/
+#droite{float:right;}
+
+#side-menu{
+font-size:150%;
+
+}
+.nav-second-level{
+
+font-size:75%;
+padding-left:30px;
+}
+
+#decl_img{
+padding-left:50px;
+}
+#imEchange{
+color:#BB0000;
+}
+#imDon{
+color:#FF7300;
+}
+#imEntraide{
+color:#338100;
+}
+#categ{
+color:#F0AD4E;
+}
+#cherche{
+color:#FFFFFF;
+}
+
+
+#imgEchange{
+color:#FA0707;
+}
+#imgLocation{
+color:#3F5581;
+}
+#imgDon{
+color:#38754A;
+}
+#imgTroc{
+color:#AB2E94;
+}
+
+#colornav{
+background:#FF0921;
+
+}
+#formul{
+color:#9EA4A3;
+}
+#formul1{
+color:#7E8281;
+}
+
+#submit{
+background:#F0F7F6;
+color:#9EA4A3;
+}
+#astuce{
+color:red;
+}
